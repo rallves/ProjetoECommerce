@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../sankhya-w_4.0b44/bin/default/deploy/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../sankhya-w_4.0b44/bin/default/deploy/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../sankhya-w_4.0b44/bin/default/deploy/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../sankhya-w_4.0b44/bin/default/deploy/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
